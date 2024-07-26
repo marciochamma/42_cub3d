@@ -99,3 +99,6 @@ mlxfclean:
 	rm -rf $(MLX_PATH)
 
 .PHONY: all clean fclean re libft libmlx
+
+
+#  MLX_FLAG for LINUX and for MAC M2
